@@ -13,6 +13,7 @@
 <a href="https://vk.com/ybrn_j" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/3938/premium/3938067.png?token=exp=1639149452~hmac=89574978938daec746e9032a42c94892" alt="ybrn.j" height="30" width="30" /></a>
 </p>
 
+##Моя статистика:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yanbystrik&show_icons=true&locale=en&layout=compact" alt="yanbystrik" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yanbystrik&show_icons=true&locale=en" alt="yanbystrik" /></p>
