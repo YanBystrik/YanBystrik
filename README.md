@@ -14,7 +14,7 @@
 
 <h3 align="left">📬 Связь со мной:</h3>
 <p align="left">
-<a href="https://instagram.com/ybrn_j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ybrn.j" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ybrn.j/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ybrn.j" height="30" width="40" /></a>
 <a href="https://vk.com/ybrn_j" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/3938/premium/3938067.png?token=exp=1639149452~hmac=89574978938daec746e9032a42c94892" alt="ybrn.j" height="30" width="30" /></a>
 </p>
 
