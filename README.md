@@ -10,7 +10,7 @@
 
 <h3 align="left">💼 Сайт:</h3>
 <p align="left">Не большой
-<a href="https://yanbystrik.github.io/portfolio/#" target="blank">Сайт-портфолио</a> с моим работами</p>
+<a href="https://yanbystrik.github.io/portfolio/#" target="blank">Сайт-портфолио</a> с моими работами</p>
 
 <h3 align="left">📬 Связь со мной:</h3>
 <p align="left">
@@ -23,4 +23,4 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yanbystrik&show_icons=true&locale=en" alt="yanbystrik" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=yanbystrik&show_icons=true&locale=en" alt="yanbystrik" /></p>
