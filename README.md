@@ -10,5 +10,5 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/ybrn.j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ybrn.j" height="30" width="40" /></a>
-<a href="https://vk.com/ybrn_j" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670055.png?token=exp=1639149452~hmac=ba832afcb236ae9067ecb3b2005eb741" alt="ybrn.j" height="30" width="30" /></a>
+<a href="https://vk.com/ybrn_j" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/3938/premium/3938067.png?token=exp=1639149452~hmac=89574978938daec746e9032a42c948921" alt="ybrn.j" height="30" width="30" /></a>
 </p>
