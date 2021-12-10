@@ -17,6 +17,6 @@
 <h3>📊 Моя статистика:</h3>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yanbystrik&show_icons=true&locale=en&layout=compact" alt="yanbystrik" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yanbystrik&show_icons=true&locale=en" alt="yanbystrik" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yanbystrik&" alt="yanbystrik" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yanbystrik&show_icons=true&locale=en" alt="yanbystrik" /></p>
