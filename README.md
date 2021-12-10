@@ -15,6 +15,6 @@
 </p>
 
 <h3>📊 Моя статистика:</h3>
-<p><img align="left" margin-bottom="20 src="https://github-readme-stats.vercel.app/api/top-langs?username=yanbystrik&show_icons=true&locale=en&layout=compact" alt="yanbystrik" />
+<p><img align="left" margin-bottom="20" src="https://github-readme-stats.vercel.app/api/top-langs?username=yanbystrik&show_icons=true&locale=en&layout=compact" alt="yanbystrik" />
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=yanbystrik&show_icons=true&locale=en" alt="yanbystrik" /></p>
