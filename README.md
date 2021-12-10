@@ -23,4 +23,4 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=yanbystrik&show_icons=true&locale=en" alt="yanbystrik" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=yanbystrik&show_icons=true&locale=en" alt="yanbystrik" /></p>
