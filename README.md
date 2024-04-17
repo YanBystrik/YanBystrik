@@ -7,7 +7,7 @@
 
 <h3 align="left">📬 Связь со мной:</h3>
 <p align="left">
-<a href="@ybrn_j" target="blank"><img align="center" src="https://img.icons8.com/?size=96&id=63306&format=png" alt="ybrn.j" height="40" width="40" /></a>
+<a href="https://t.me/ybrn_j" target="blank"><img align="center" src="https://img.icons8.com/?size=96&id=63306&format=png" alt="ybrn.j" height="40" width="40" /></a>
 <a href="https://vk.com/ybrn_j" target="blank"><img align="center" src="https://raw.githubusercontent.com/YanBystrik/YanBystrik/738972fe9b5e9108bba190cf22650093d93060bc/vk-1-logo-svgrepo-com.svg" alt="ybrn.j" height="30" width="30" /></a>
 </p>
 
