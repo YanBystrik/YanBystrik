@@ -1,24 +1,26 @@
 # Привет, меня зовут Ян👋 
 
 - 💻 3 года коммерческого опыта
-- 🛠️ Стек:
-   JavaScript, TypeScript
-   React, React-hook-form
-   MUI, Antd, StyledComponents, SCSS modules
-   Redux/RTK,
-   Webpack, REST Api, jest
+- 🛠️ **Стек:**
+  - JavaScript, TypeScript
+  - React, React-hook-form
+  - MUI, Antd, StyledComponents, SCSS modules
+  - Redux/RTK
+  - Webpack, REST Api, Jest
 
+## 📬 Связь со мной:
 
-
-<h3 align="left">📬 Связь со мной:</h3>
 <p align="left">
-<a href="https://t.me/ybrn_j" target="blank"><img align="center" src="https://img.icons8.com/?size=96&id=63306&format=png" alt="ybrn.j" height="40" width="40" /></a>
-<a href="https://vk.com/ybrn_j" target="blank"><img align="center" src="https://raw.githubusercontent.com/YanBystrik/YanBystrik/738972fe9b5e9108bba190cf22650093d93060bc/vk-1-logo-svgrepo-com.svg" alt="ybrn.j" height="30" width="30" /></a>
+  <a href="https://t.me/ybrn_j" target="_blank"><img src="https://img.icons8.com/?size=96&id=63306&format=png" alt="Telegram" height="40" width="40" /></a>
+  <a href="https://vk.com/ybrn_j" target="_blank"><img src="https://raw.githubusercontent.com/YanBystrik/YanBystrik/738972fe9b5e9108bba190cf22650093d93060bc/vk-1-logo-svgrepo-com.svg" alt="VK" height="30" width="30" /></a>
 </p>
 
-<h3>📊 Моя статистика:</h3>
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yanbystrik&show_icons=true&locale=en&layout=compact" alt="yanbystrik" />
+## 📊 Моя статистика:
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanbystrik&layout=compact&langs_count=8" alt="Top Languages" />
+</p>
 
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=yanbystrik&show_icons=true&locale=en" alt="yanbystrik" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yanbystrik&show_icons=true" alt="GitHub Stats" />
+</p>
