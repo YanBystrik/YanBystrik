@@ -2,11 +2,11 @@
 
 - 💻 3 года коммерческого опыта
 - 🛠️ Стек:
--- JavaScript, TypeScript
--- React, React-hook-form
--- MUI, Antd, StyledComponents, SCSS modules
--- Redux/RTK,
--- Webpack, REST Api, jest
+   JavaScript, TypeScript
+   React, React-hook-form
+   MUI, Antd, StyledComponents, SCSS modules
+   Redux/RTK,
+   Webpack, REST Api, jest
 
 
 
