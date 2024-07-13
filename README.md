@@ -1,7 +1,7 @@
 # Привет, меня зовут Ян👋 
 
 - 💻 3 года коммерческого опыта
-- 🛠️ Стек: React, TypeScript, Redux/RTK, SCSS modules, Webpack, REST Api, jest
+- 🛠️ Стек: JavaScript, TypeScript, React-hook-form, MUI, Antd, StyledComponents Redux/RTK, SCSS modules, Webpack, REST Api, jest
 
 
 
