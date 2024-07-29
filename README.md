@@ -4,8 +4,8 @@
 - 🛠️ **Стек:**
   - JavaScript, TypeScript
   - React, React-hook-form
-  - MUI, Antd, StyledComponents, SCSS modules
-  - Redux/RTK
+  - MUI, Antd, StyledComponents, SCSS modules, Tailwind, shadcn
+  - Redux/RTK, Zustand, Mobx
   - Webpack, REST Api, Jest
 
 ## 📬 Связь со мной:
